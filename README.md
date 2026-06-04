@@ -14,9 +14,9 @@
 
 ## 🌐 Live App
 
-👉 **[Launch Streamlit App](YOUR_STREAMLIT_URL)**
+👉 **[Launch Streamlit App](https://food-delivery-analytics-app-utc6llexkf4lazz97fhmej.streamlit.app/)**
 &nbsp;&nbsp;|&nbsp;&nbsp;
-📂 **[View on GitHub](https://github.com/YOUR_USERNAME/food-delivery-analytics-hub)**
+📂 **[View on GitHub](https://github.com/sarthak1832/food-delivery-analytics-hub)**
 
 ---
 
