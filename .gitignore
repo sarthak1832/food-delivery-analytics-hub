@@ -1,0 +1,45 @@
+
+# ── SECURITY: never push these ──
+.env
+.env.local
+.env.production
+*.env
+
+# ── VIRTUAL ENVIRONMENT ──
+venv/
+.venv/
+env/
+
+# ── RAW KAGGLE DATA (too large, link to Kaggle in README) ──
+food_order.csv
+
+# ── KEEP these processed CSVs (small, needed for Streamlit) ──
+# The ! means do NOT ignore this file
+!clean_food_orders.csv
+!restaurant_performance.csv
+
+# ── PYTHON CACHE ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── JUPYTER NOTEBOOKS CACHE ──
+.ipynb_checkpoints/
+
+# ── MAC SYSTEM FILES ──
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# ── VS CODE ──
+.vscode/
+
+# ── LOGS ──
+*.log
+logs/

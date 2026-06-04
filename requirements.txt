@@ -1,0 +1,21 @@
+# ── CORE DATA LIBRARIES ──
+pandas
+numpy
+
+# ── VISUALISATION ──
+matplotlib
+seaborn
+plotly
+
+# ── DATABASE ──
+mysql-connector-python
+
+# ── WEB APP ──
+streamlit
+
+# ── SECURITY: load credentials from .env file ──
+python-dotenv
+
+
+
+
